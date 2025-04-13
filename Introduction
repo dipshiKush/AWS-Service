@@ -1,0 +1,20 @@
+1. Cloud Computing
+     Cloud computing is the delivery of computing services—including servers, storage, databases, networking, software, analytics, and intelligence—over the internet (“the cloud”) to offer faster innovation, flexible resources.
+     You pay only for cloud services you use, helping you lower your operating costs, run your infrastructure more efficiently, and scale as your business needs change.   
+
+2. AWS Cloud
+   AWS provides on-demand delivery of technology services through the Internet with pay-as-you-go pricing. This is known as cloud computing.
+
+3. AWS Cloud Benefits
+   - Cost Effective
+   - Scalable and Flexible
+   - Secure and Reliable
+   - Agility and Speed
+   - Global Infrastructure
+   - Ease to Use
+
+4. Cloud Service Types
+   IaaS (Infrastructure as a Service) - Provides virtualized computing resources over the internet. You manage everything from the OS up; AWS provides the infrastructure. 
+   PaaS (Platform as a Service) - Provides a platform allowing customers to develop, run, and manage applications without dealing with the infrastructure.
+   SaaS (Software as a Service) - Fully functional software delivered over the internet; you just use the application.
+  
